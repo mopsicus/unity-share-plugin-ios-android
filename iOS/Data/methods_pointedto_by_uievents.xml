@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ShareController">
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+			<method name="ShareIt"/>
+		</type>
+	</assembly>
+</linker>
